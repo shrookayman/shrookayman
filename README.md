@@ -32,8 +32,8 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shrookayman&show_icons=true&locale=en" alt="shrookayman" /></p>
 <h3 align="left">Languages and tools:</h3>
 <div>
-    <img src="  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+    <img src="[https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg](https://www.w3schools.com/CPP/default.asp)" title="cpp" alt="cpp" width="40" height="40"/>&nbsp;
+
 
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
