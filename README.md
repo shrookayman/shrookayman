@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm shrook ayman</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shrookayman&label=Profile%20views&color=0e75b6&style=flat" alt="shrookayman" /> </p>
 
-- 🌱 I’m currently learning **Flutter, data structure and algorithm**
+- 🌱 I’m currently learning **Web, data structure and algorithm**
 
 - 📫 How to reach me **shrookayman617@gmail.com**
 
