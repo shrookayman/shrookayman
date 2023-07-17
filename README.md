@@ -1,7 +1,7 @@
 
 -  I am s student at **faculty of computers and artificial intelligence Cairo university**
 
-- 🌱 I’m currently learning **ASP.NET**
+- 🌱 I’m currently learning **Data analysis**
 
 - 📫 How to reach me **shrookayman617@gmail.com**
 
