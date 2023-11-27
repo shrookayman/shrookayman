@@ -1,5 +1,5 @@
 
--  I am a student at **faculty of computers and artificial intelligence Cairo university**
+-  I am a student at **faculty of Computers and Artificial Intelligence Cairo University**
 
 - 📫 How to reach me **shrookayman617@gmail.com**
 
