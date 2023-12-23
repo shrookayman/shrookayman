@@ -1,6 +1,6 @@
 
 -  I am a student at **faculty of Computers and Artificial Intelligence Cairo University**
-
+- I am currently learning .NET
 - 📫 How to reach me **shrookayman617@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
