@@ -1,5 +1,5 @@
 
--  I am a Fullstack Software Engineer
+-  Fullstack Software Engineer
 - 📫 How to reach me **shroukayman176@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
